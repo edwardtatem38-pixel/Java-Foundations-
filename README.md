@@ -19,10 +19,9 @@ This repository contains a collection of foundational Java programs developed to
 4. Run any `.java` file using the "Run" button or F5.
 
 ## 📸 Project Previews
-## 📸 Project Previews
 
 ### Loan Validator - Approval Case
-![Loan Approved](Screenshot%202026-01-31%20170437.png)
+![Loan Approved](approved.png)
 
 ### Loan Validator - Rejection Case
-![Loan Rejected](Screenshot%202026-01-31%20170733.png)
+![Loan Rejected](rejected.png)
