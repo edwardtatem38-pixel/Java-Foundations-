@@ -17,3 +17,11 @@ This repository contains a collection of foundational Java programs developed to
 2. Open the folder in VS Code.
 3. Ensure the Red Hat Java Extension is installed.
 4. Run any `.java` file using the "Run" button or F5.
+
+## 📸 Project Previews
+
+### Loan Validator - Approval Case
+![Loan Approved](Screenshot%202026-01-31%20170437.png)
+
+### Loan Validator - Rejection Case
+![Loan Rejected](Screenshot%202026-01-31%20170733.png)
