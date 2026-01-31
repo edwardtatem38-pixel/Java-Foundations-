@@ -28,5 +28,7 @@ This repository contains a collection of foundational Java programs developed to
 
 * **MultiLoanProcessor.java**: An advanced version of the loan portal utilizing a `while` loop to process multiple customer applications in a single session.
 
+* **MultiLoanProcessor.java**: An advanced version of the loan portal utilizing a `while` loop to process multiple customer applications in a single session.
+
 ### Batch Processing Demo
 ![Multi Loan Processor](multi_loan_demo.png)
