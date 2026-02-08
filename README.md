@@ -7,7 +7,7 @@ This repository contains a collection of foundational Java programs developed to
 * **InteractivePower.java**: A dynamic console application using the `Scanner` class to process user input and perform real-time calculations.
 * LoanValidator.java: Implementing conditional if-else logic for credit approval.
 
-MultiLoanProcessor.java: Using while loops to handle multiple calculations in a single session.
+  MultiLoanProcessor.java: Using while loops to handle multiple calculations in a single session.
 * LoanRiskAssessor.java: Demonstrating Explicit Type Casting (double) to ensure high-precision risk probability scores.
 
 BankStatementGenerator.java: My "Capstone" project using Fixed-size Arrays and For-Loops to generate a final batch report for multiple customers.
