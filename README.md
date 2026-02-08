@@ -9,7 +9,7 @@ This repository contains a collection of foundational Java programs developed to
 * Multi Loan Processor: Using while loops to handle continuous data processing in a single session.
 * Loan Risk Assessor: Demonstrating Explicit Type Casting (double) to ensure high-precision risk probability scores.
 
-Bank Statement Generator: My capstone project using Fixed-size Arrays and For-Loops to generate a final batch report for multiple customers.
+  Bank Statement Generator: My capstone project using Fixed-size Arrays and For-Loops to generate a final batch report for multiple customers.
 
 
 
