@@ -4,13 +4,14 @@ This repository contains a collection of foundational Java programs developed to
 ## 🚀 Projects Included
 * **HelloDimitri.java**: A fundamental entry point demonstrating basic console output.
 * **PowerLevel.java**: An exploration of arithmetic operations and variable declaration.
-* **InteractivePower.java**: A dynamic console application using the `Scanner` class to process user input and perform real-time calculations.
-* LoanValidator.java: Implementing conditional if-else logic for credit approval.
+* **InteractivePower.java**: A dynamic console application using the
+* Loan Validator: Implementing conditional if-else logic for automated credit approval.
+* Multi Loan Processor: Using while loops to handle continuous data processing in a single session.
+* Loan Risk Assessor: Demonstrating Explicit Type Casting (double) to ensure high-precision risk probability scores.
 
-  MultiLoanProcessor.java: Using while loops to handle multiple calculations in a single session.
-* LoanRiskAssessor.java: Demonstrating Explicit Type Casting (double) to ensure high-precision risk probability scores.
+Bank Statement Generator: My capstone project using Fixed-size Arrays and For-Loops to generate a final batch report for multiple customers.
 
-BankStatementGenerator.java: My "Capstone" project using Fixed-size Arrays and For-Loops to generate a final batch report for multiple customers.
+
 
 ## 🛠️ Technical Stack
 * **Language**: Java 17+
